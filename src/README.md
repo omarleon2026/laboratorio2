@@ -1,8 +1,8 @@
 
-#Laboratorio 2
+# Laboratorio 2
 
-En este laboratorio se tiene como objetivo realizar ordenes
-por medio de la clase Orden que nos pide un objeto computadora
+En este laboratorio se tiene como objetivo realizar 
+ordenes por medio de la clase Orden que nos pide un objeto computadora
 en el constructor. 
 
 Este objeto computadora recibe en su constructor el precio, 
